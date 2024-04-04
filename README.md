@@ -4,8 +4,10 @@ Code is comming soon!
 
 ![image](teaser.png)
 
-## Bibtex
-`
+## Citing
+If you find this code useful for your research, please consider citing the following paper:
+
+```bibtex
 @inproceedings{gan2024fine,
   title={Fine-Grained Multi-View Hand Reconstruction Using Inverse Rendering},
   author={Gan, Qijun and Li, Wentong and Ren, Jinwei and Zhu, Jianke},
@@ -15,4 +17,4 @@ Code is comming soon!
   pages={1779--1787},
   year={2024}
 }
-`
+```
