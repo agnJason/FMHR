@@ -1,0 +1,14 @@
+tqdm==4.64.0
+scikit-image==0.23.2
+pyhocon==0.3.59
+trimesh==3.21.2
+Pillow==9.0.0
+smplx==0.1.28
+opencv-python==4.8.1.78
+mediapipe==0.9.1.0
+scipy==1.13.1
+plyfile==1.0.3
+lpips==0.1.4
+git+https://github.com/MPI-IS/mesh
+git+https://github.com/mattloper/chumpy
+#git+https://github.com/NVlabs/nvdiffrast.git
