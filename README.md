@@ -13,7 +13,7 @@ Zhejiang University
 
 #
 ### News
-* **`Jun. 13st, 2024`:** 🌟We released our source code!
+* **`July. 8th, 2024`:** 🌟We released our source code!
 
 ## Abstract
 
